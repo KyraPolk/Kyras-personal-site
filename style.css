@@ -1,7 +1,31 @@
 h1{
   text-align: center;
-  color: rgb(35, 41, 25);
+  color: rgb(31, 44, 9);
+  background-color: antiquewhite;
+  border-radius: 30px;
 }
 body{
-  background-color: rgb(97, 121, 229);
+  background-color: rgb(112, 216, 136);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+div > a {
+  background-color: antiquewhite;
+  padding:10px;
+  border-radius: 30px;
+  color: rgb(31, 44, 9);
+  text-decoration: none;
+}
+a:hover{
+  background-color: rgb(108, 163, 200);
+}
+ ol > li > img {
+border: solid 10px;
+border-color:antiquewhite;
+border-radius: 30px
+}
+body > img{
+  border: solid 10px;
+  border-color:antiquewhite;
+  border-radius: 30px;
+
 }
